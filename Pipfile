@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+behave-restful = "*"
+bolt-ta = "*"
+conttest = "*"
+flask = "*"
+nose = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
